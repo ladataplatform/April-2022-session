@@ -1,0 +1,88 @@
+4/10/2022 2:23:58 PM	This log contains information about the import schema operation into project 'AdventureWorks2017' on computer 'PDH-NIGHTOWL' by user 'PaulD'.
+4/10/2022 2:23:59 PM	Import of database schema has started.
+4/10/2022 2:24:07 PM	Gathering database credentials
+4/10/2022 2:24:07 PM	Gathering database options
+4/10/2022 2:24:07 PM	Gathering generic database scoped configuration option
+4/10/2022 2:24:07 PM	Gathering users
+4/10/2022 2:24:07 PM	Gathering roles
+4/10/2022 2:24:07 PM	Gathering application roles
+4/10/2022 2:24:07 PM	Gathering role memberships
+4/10/2022 2:24:07 PM	Gathering filegroups
+4/10/2022 2:24:07 PM	Gathering full-text catalogs
+4/10/2022 2:24:07 PM	Gathering assemblies
+4/10/2022 2:24:07 PM	Gathering certificates
+4/10/2022 2:24:07 PM	Gathering asymmetric keys
+4/10/2022 2:24:07 PM	Gathering symmetric keys
+4/10/2022 2:24:07 PM	Gathering encrypted symmetric keys
+4/10/2022 2:24:07 PM	Gathering schemas
+4/10/2022 2:24:07 PM	Gathering XML schema collections
+4/10/2022 2:24:07 PM	Gathering user-defined data types
+4/10/2022 2:24:07 PM	Gathering user-defined types
+4/10/2022 2:24:07 PM	Gathering table types
+4/10/2022 2:24:07 PM	Gathering unique keys for table types
+4/10/2022 2:24:07 PM	Gathering primary keys for table types
+4/10/2022 2:24:07 PM	Gathering indexes for table types
+4/10/2022 2:24:07 PM	Gathering check constraints for table types
+4/10/2022 2:24:07 PM	Gathering default constraints for table types
+4/10/2022 2:24:07 PM	Gathering partition functions
+4/10/2022 2:24:07 PM	Gathering partition schemes
+4/10/2022 2:24:07 PM	Gathering functions
+4/10/2022 2:24:07 PM	Gathering encrypted functions
+4/10/2022 2:24:07 PM	Gathering aggregates
+4/10/2022 2:24:07 PM	Gathering procedures
+4/10/2022 2:24:07 PM	Gathering encrypted procedures
+4/10/2022 2:24:07 PM	Gathering tables
+4/10/2022 2:24:07 PM	Gathering primary keys
+4/10/2022 2:24:07 PM	Gathering unique constraints
+4/10/2022 2:24:07 PM	Gathering foreign keys
+4/10/2022 2:24:07 PM	Gathering default constraints
+4/10/2022 2:24:07 PM	Gathering check constraints
+4/10/2022 2:24:07 PM	Gathering views
+4/10/2022 2:24:07 PM	Gathering encrypted views
+4/10/2022 2:24:07 PM	Gathering indexes
+4/10/2022 2:24:07 PM	Gathering statistics
+4/10/2022 2:24:07 PM	Gathering full-text index stoplists
+4/10/2022 2:24:07 PM	Gathering search property lists
+4/10/2022 2:24:07 PM	Gathering search properties
+4/10/2022 2:24:07 PM	Gathering full-text indexes
+4/10/2022 2:24:07 PM	Gathering column store indexes
+4/10/2022 2:24:07 PM	Gathering spatial indexes
+4/10/2022 2:24:07 PM	Gathering XML indexes
+4/10/2022 2:24:07 PM	Gathering Selective XML indexes
+4/10/2022 2:24:07 PM	Gathering encrypted triggers
+4/10/2022 2:24:07 PM	Gathering triggers
+4/10/2022 2:24:07 PM	Gathering encrypted and clr ddl triggers
+4/10/2022 2:24:07 PM	Gathering ddl triggers
+4/10/2022 2:24:07 PM	Creating edge constraints
+4/10/2022 2:24:07 PM	Gathering synonyms
+4/10/2022 2:24:07 PM	Gathering defaults
+4/10/2022 2:24:07 PM	Gathering data constraint uddt bindings
+4/10/2022 2:24:07 PM	Gathering rules
+4/10/2022 2:24:07 PM	Gathering data constraint uddt bindings
+4/10/2022 2:24:07 PM	Gathering message types
+4/10/2022 2:24:07 PM	Gathering queues
+4/10/2022 2:24:07 PM	Gathering contracts
+4/10/2022 2:24:07 PM	Gathering services
+4/10/2022 2:24:07 PM	Gathering event notifications
+4/10/2022 2:24:07 PM	Gathering remote service bindings
+4/10/2022 2:24:07 PM	Gathering broker priorities
+4/10/2022 2:24:07 PM	Gathering signatures
+4/10/2022 2:24:07 PM	Gathering data compression options
+4/10/2022 2:24:07 PM	Gathering sequence types
+4/10/2022 2:24:07 PM	Gathering security policies
+4/10/2022 2:24:07 PM	Gather column encryption keys
+4/10/2022 2:24:07 PM	Gathering column master keys
+4/10/2022 2:24:07 PM	Gathering external data sources
+4/10/2022 2:24:07 PM	Gathering external file formats
+4/10/2022 2:24:07 PM	Gathering external tables
+4/10/2022 2:24:07 PM	Gathering database permissions
+4/10/2022 2:24:07 PM	Gathering extended properties
+4/10/2022 2:24:08 PM	Gathering assemblies
+4/10/2022 2:24:08 PM	Gathering credentials
+4/10/2022 2:24:08 PM	Gathering logins
+4/10/2022 2:24:08 PM	Gathering server audits
+4/10/2022 2:24:10 PM	Scanning project for duplicate elements
+4/10/2022 2:24:11 PM	Finished duplicate element processing
+4/10/2022 2:24:36 PM	Finished importing database.
+4/10/2022 2:24:36 PM	A summary of the import was saved to the following location: C:\Users\PaulD\Desktop\DevOps\MS Visual Studio\AdventureWorks2017\AdventureWorks2017\Import Schema Logs\AdventureWorks2017_20220410072358.log
+4/10/2022 2:24:36 PM	Click Finish to continue...

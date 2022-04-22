@@ -1,0 +1,2 @@
+cd "C:\Users\PaulD\Documents\WindowsPowerShell\Modules\dbatools\1.1.88\bin\smo"
+sqlpackage.exe /TargetFile:"C:\Users\PaulD\Desktop\DevOps\Packaging The Artifacts\SqlPackage\AdventureWorks2017.bacpac" /Action:Export /SourceServerName:"." /SourceDatabaseName:"AdventureWorks2017"

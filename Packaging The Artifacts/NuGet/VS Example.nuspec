@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>AdventureWorks2017_VS</id>
+        <version>3.0.20220408.1</version>
+        <description>Example NuSpec File</description>
+        <authors>NTSSUG</authors>
+
+        <!-- Optional elements -->
+        <!-- ... -->
+        
+        <!--<repository type="git" url="https://github.com/NuGet/NuGet.Client.git" branch="dev" commit="e1c65e4524cd70ee6e22abe33e6cb6ec73938cb3" /> -->
+    </metadata>
+    <files>
+        <file src="C:\Users\PaulD\Desktop\DevOps\MS Visual Studio\AdventureWorks2017\AdventureWorks2017\**.*sql" target="content\db" />
+        <file src="C:\Users\PaulD\Desktop\DevOps\MS Visual Studio\AdventureWorks2017\AdventureWorks2017\Deploy\**.*" target="content\data" />
+    </files>
+</package>

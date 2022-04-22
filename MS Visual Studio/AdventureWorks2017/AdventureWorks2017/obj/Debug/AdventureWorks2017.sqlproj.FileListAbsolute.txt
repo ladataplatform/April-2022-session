@@ -1,0 +1,10 @@
+C:\Users\PaulD\Desktop\DevOps\MS Visual Studio\AdventureWorks2017\AdventureWorks2017\bin\Debug\AdventureWorks2017.dacpac
+C:\Users\PaulD\Desktop\DevOps\MS Visual Studio\AdventureWorks2017\AdventureWorks2017\bin\Debug\AdventureWorks2017.dll
+C:\Users\PaulD\Desktop\DevOps\MS Visual Studio\AdventureWorks2017\AdventureWorks2017\bin\Debug\AdventureWorks2017.pdb
+C:\Users\PaulD\Desktop\DevOps\MS Visual Studio\AdventureWorks2017\AdventureWorks2017\obj\Debug\Model.xml
+C:\Users\PaulD\Desktop\DevOps\MS Visual Studio\AdventureWorks2017\AdventureWorks2017\obj\Debug\refactor.xml
+C:\Users\PaulD\Desktop\DevOps\MS Visual Studio\AdventureWorks2017\AdventureWorks2017\obj\Debug\postdeploy.sql
+C:\Users\PaulD\Desktop\DevOps\MS Visual Studio\AdventureWorks2017\AdventureWorks2017\obj\Debug\predeploy.sql
+C:\Users\PaulD\Desktop\DevOps\MS Visual Studio\AdventureWorks2017\AdventureWorks2017\obj\Debug\AdventureWorks2017.dll
+C:\Users\PaulD\Desktop\DevOps\MS Visual Studio\AdventureWorks2017\AdventureWorks2017\obj\Debug\AdventureWorks2017.pdb
+C:\Users\PaulD\Desktop\DevOps\MS Visual Studio\AdventureWorks2017\AdventureWorks2017\obj\Debug\AdventureWorks2017.sqlproj.AssemblyReference.cache
